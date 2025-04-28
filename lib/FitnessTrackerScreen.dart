@@ -23,7 +23,7 @@ class _FitnessTrackerScreenState extends State<FitnessTrackerScreen> {
   // API URL - Change this to your API's address
   // final String apiUrl = 'http://localhost:5000/api';
   // For Android emulator
-  final String apiUrl = 'http://192.168.222.27:5000/api';
+  final String apiUrl = 'http://YOUR_SERVER_IP:5000/api';
   // final String apiUrl = 'http://localhost:5000/api';  // For iOS simulator
   // final String apiUrl = 'http://your-server-ip:5000/api';  // For real device
 
