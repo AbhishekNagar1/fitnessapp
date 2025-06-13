@@ -1,5 +1,11 @@
 # fitnessapp
 
+<div align="center">
+  <a href="https://license-instructions.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚨-READ%20BEFORE%20FORKING-red?style=for-the-badge&labelColor=darkred" alt="Read Before Forking">
+  </a>
+</div>
+
 A new Flutter project for a fitness app.
 
 ## Getting Started
